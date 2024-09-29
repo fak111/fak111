@@ -10,7 +10,7 @@
 ## Technologies I Love
 - **Java**: I have extensive experience in Java, building robust applications that are both efficient and scalable. 
 - **Python**: Python is my go-to for rapid development and data analysis. 
-- **Deep Learning & AI**: With a deep understanding of neural networks, I've implemented cutting-edge solutions using frameworks like TensorFlow and PyTorch. My work includes 
+- **Deep Learning & AI**: With a deep understanding of neural networks, I've implemented cutting-edge solutions using frameworks like PyTorch.
 
 - 💬 Feel free to ask me about anything! Don’t hesitate to disturb me;
 
