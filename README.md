@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 ## Technologies I Love
-- **Java**: I have extensive experience in Java, building robust applications that are both efficient and scalable. 
+- **Java**: i gradually don't like it haha. 
 - **Python**: Python is my go-to for rapid development and data analysis. 
 - **Deep Learning & AI**: With a deep understanding of neural networks, I've implemented cutting-edge solutions using frameworks like PyTorch.
 
