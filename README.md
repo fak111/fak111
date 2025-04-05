@@ -1,19 +1,31 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)](https://github.com/fak111)
 
-<h1 align="center">Hi 👋, I'm fak111 </h1>
-<h3 align="center"><h3 align="center"><strong>A Boy</strong> Love for Code from China</h3>
-</h3>
+<h1 align="center">Hi 👋, I'm fak111</h1>
+<h3 align="center">A Passionate Coder from China</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=fak111&label=Profile%20views&color=0e75b6&style=flat" alt="fak111" /> 
+</p>
 
-## Technologies I Love
-- **Java**: i gradually don't like it haha. 
-- **Python**: Python is my go-to for rapid development and data analysis. 
-- **Deep Learning & AI**: With a deep understanding of neural networks, I've implemented cutting-edge solutions using frameworks like PyTorch.
+## About Me
+- 🧠 Just do it advocate
+- 🎓 Tech educator creating programming courses on Bilibili
+- 🚀 Enthusiast of "vibe coding" with Cursor and Claude as my exploration tools
 
-- 💬 Feel free to ask me about anything! Don’t hesitate to disturb me;
+## Technologies & Skills
+- **AI & Deep Learning**: PyTorch, Model Fine-tuning, Neural Networks
+- **Development Tools**: Cursor, Claude, AI-assisted programming
+- **Content Creation**: Technical tutorials and programming courses
 
-- 📫 How to reach me **zhuliderb@gmail.com** or **qq:2573799775**
+## Connect With Me
+- 📫 Email: **zhuliderb@gmail.com**
+- 💬 WeChat: **jiayouzfc**
+- 🌐 Feel free to reach out for collaborations or questions!
 
+---
 
+<p align="center">
+  <i>Let's connect and create something amazing together!</i>
+</p>
